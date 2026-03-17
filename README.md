@@ -1,4 +1,4 @@
-# Three.js Physics — Chapter 3, Lesson 20
+# Three.js Physics
 
 An interactive 3D physics simulation built with [Three.js](https://threejs.org/) and [Rapier](https://rapier.rs/). Spheres spawn inside a semi-transparent cage, bounce around with realistic physics, and explode outward when clicked.
 
